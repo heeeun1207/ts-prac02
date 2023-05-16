@@ -10,3 +10,5 @@ let test = {
   age : "20",
   job : "heenyjob"
 }
+
+console.log(exampleOne(test));
